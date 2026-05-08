@@ -51,6 +51,12 @@ Unity 기반으로 제작한 2D 배달 게임 프로젝트입니다.  플레이�
 
 ---
 
+
+# 스크린 샷
+<img width="1114" height="401" alt="스크린샷(754)" src="https://github.com/user-attachments/assets/68b8576b-4321-413f-a342-f33f1f7ad3f3" />
+
+
+
 # 트러블 슈팅
 
 ## Trigger와 Collision 차이
